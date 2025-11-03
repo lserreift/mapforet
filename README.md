@@ -1,5 +1,4 @@
-# Arbre en Ville - commune d'Arcachon (33)
-Ce projet a été réalisé dans le cadre de la réalisation de la Charte de l'Arbre de la Ville d'Arcachon en 2025.
+# Arbre
 
 This project aims to map, document, and promote the urban trees of Arcachon (33 120). The goal is to provide open data, foster community engagement, and support local ecological initiatives.
 
