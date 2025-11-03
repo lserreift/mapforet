@@ -1,4 +1,4 @@
-# Arbre
+# Gestion de l'arbre (MapForêt)
 
 This project aims to map, document, and promote the urban trees of Arcachon (33 120). The goal is to provide open data, foster community engagement, and support local ecological initiatives.
 
