@@ -1,4 +1,4 @@
-# Gestion de l'arbre (MapForêt)
+# AI applied to forest inventory and forest management (MapForêt)
 
 This project aims to map, document, and promote the urban trees of Arcachon (33 120). The goal is to provide open data, foster community engagement, and support local ecological initiatives.
 
