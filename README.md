@@ -1,6 +1,6 @@
 # AI applied to forest inventory and forest management (MapForêt)
 
-This project aims to map, document, and promote the urban trees of Arcachon (33 120). The goal is to provide open data, foster community engagement, and support local ecological initiatives.
+This project aims to map, document, and promote productive forests. Its objective is to provide an AI-integrated tool for analyzing open data in order to foster engagement among professionals and citizens and support local ecological initiatives.
 
 ## Features
 
