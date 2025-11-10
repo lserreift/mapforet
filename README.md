@@ -4,13 +4,13 @@ This project aims to map, document, and promote productive forests. Its objectiv
 
 ## Features
 
-- Open and collaborative mapping of urban trees
+- Open and collaborative mapping of trees and forest plots
 - Data collection and sharing
-- Community-driven updates and contributions
+- Community updates and contributions
 
 ## Project Wiki
 
-For detailed documentation, guides, and project updates, please visit the [Project Wiki](../../wiki).
+For detailed documentation, guides, and project updates, please visit the ...
 
 ## How to Contribute
 
